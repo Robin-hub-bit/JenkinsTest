@@ -9,6 +9,7 @@ public class Main extends Object {
                                 System.out.println("Jenkins Test 20-06-2024 test 1");
                                 System.out.println("Jenkins Test 20-06-2024 test 2");
                                 System.out.println("Jenkins Test 20-06-2024 test 3");
+                                System.out.println("Jenkins Test 20-06-2024 test 4");
 
 
     }
